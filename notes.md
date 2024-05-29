@@ -28,7 +28,7 @@ subtitle: For many SOC2 represents a barrel of cats, lots of work and its never 
     </h5>
     <p>
         These articles are written to give CEOs and Founders with think about,
-        plan and prepare for the good and bad of getting cyber ready.
+        plan and prepare for the good and bad of getting cyber-ready.
     </p>
 </div>
 

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://StephanSmith.solutions/sitemap.xml
+Sitemap: https://revenueCISO.com/sitemap.xml
