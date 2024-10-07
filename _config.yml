@@ -1,10 +1,7 @@
-
 # Site settings
 title: The Revenue CISO
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Stephan is a Boston based fractional CISO who solves cybersecurity stresses in organizations.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://RevenueCISO.com" 
 
@@ -18,8 +15,6 @@ collections:
     output: true
     permalink: /packages/:path/
     sort_by: order
-
-
 
 # Markdown settings
 markdown: kramdown
@@ -41,3 +36,10 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+
+# Google Analytics
+google_analytics: "G-YG9535PG59"
+hotjar_id: 3823763
+hubspot_id: 
+linkedin_username: stephansmithbc93
+github_username: d1b1
